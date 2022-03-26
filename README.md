@@ -2,6 +2,6 @@
 
 i code stuff in java and kotlin
 
-discord is bush#8888
+discord is bush#6485
 
 github admins: dont even bother, i will just make another account

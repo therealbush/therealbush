@@ -2,6 +2,6 @@
 
 i code stuff in java and kotlin
 
-discord is bush#8888
+discord is bush#2232
 
 i'm still alive

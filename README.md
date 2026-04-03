@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=therealbush&color=blue)
 
-i code stuff in java and kotlin
+i code stuff
 
-discord is bush1
+lots of experience with java + kotlin
+
+currently focusing more on js
 
 i'm still alive

@@ -2,8 +2,4 @@
 
 i code stuff
 
-lots of experience with java + kotlin
-
-currently focusing more on js
-
-i'm still alive
+experience with java + kotlin

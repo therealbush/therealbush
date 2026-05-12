@@ -8,4 +8,3 @@ experience with:
 - python
 - c/c++
 - web, react, js, node
-- 

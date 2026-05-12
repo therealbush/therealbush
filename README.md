@@ -2,4 +2,10 @@
 
 i code stuff
 
-experience with java + kotlin
+experience with:
+
+- java + kotlin
+- python
+- c/c++
+- web, react, js, node
+- 

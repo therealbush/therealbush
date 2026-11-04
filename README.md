@@ -5,6 +5,7 @@ i code stuff
 experience with:
 
 - java + kotlin
-- python
+- "agentic engineering"
 - c/c++
 - web, react, js, node
+- python
